@@ -22,8 +22,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Delegates", "Delegates\Dele
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Events", "Events\Events.csproj", "{1A03FFD7-7FD5-4F98-8273-3CA0FE75E127}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TabloAnalizi", "TabloAnalizi\TabloAnalizi.csproj", "{5432EC1A-8B5B-4C7A-BD24-A90400663AA8}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -74,9 +72,5 @@ Global
 		{1A03FFD7-7FD5-4F98-8273-3CA0FE75E127}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1A03FFD7-7FD5-4F98-8273-3CA0FE75E127}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1A03FFD7-7FD5-4F98-8273-3CA0FE75E127}.Release|Any CPU.Build.0 = Release|Any CPU
-		{5432EC1A-8B5B-4C7A-BD24-A90400663AA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{5432EC1A-8B5B-4C7A-BD24-A90400663AA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{5432EC1A-8B5B-4C7A-BD24-A90400663AA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{5432EC1A-8B5B-4C7A-BD24-A90400663AA8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
