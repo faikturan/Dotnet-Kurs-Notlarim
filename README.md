@@ -1,1 +1,1 @@
-# BTK Akademi C# Kurs Notlarım
+# BTK Akademi C# Kursuna Ait Notlarım
