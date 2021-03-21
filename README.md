@@ -1,2 +1,1 @@
-# BTK
-C# Kurs Kodları
+# BTK Akademi C# Kurs Notlarım
